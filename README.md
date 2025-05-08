@@ -5,7 +5,7 @@ A fun and interactive game to test your knowledge of world geography. Answer que
 Have fun playing the game!!
 
 ## Prerequisites
-- .NET SDK (version 8.0 or higher)
+- .NET SDK (https://dotnet.microsoft.com/en-us/download) (version 8.0 or higher)
 - A terminal or command prompt
 
 ## Installation
