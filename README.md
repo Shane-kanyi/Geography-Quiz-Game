@@ -2,6 +2,7 @@
 
 ## Description
 A fun and interactive game to test your knowledge of world geography. Answer questions about countries, capitals, landmarks, and more!
+Have fun playing the game!!
 
 ## Prerequisites
 - .NET SDK (version 8.0 or higher)
